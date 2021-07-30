@@ -1,5 +1,6 @@
-### Docker file configuration for multy layer .NET app and CI/CD with GitLab 
 
+https://www.linkedin.com/pulse/building-cicd-pipelines-gitlab-net-5-docker-hub-ᴍᴄᴘ-ᴄsᴍ-ᴄsᴘᴏ/
+### Docker file configuration for multy layer .NET app and CI/CD with GitLab 
 ### Runner Registration
 ```
 1.gitlab-runner.exe register
