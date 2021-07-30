@@ -1,0 +1,11 @@
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\bin\Debug\net5.0\Infar.Common.deps.json
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\bin\Debug\net5.0\Infar.Common.dll
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\bin\Debug\net5.0\ref\Infar.Common.dll
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\bin\Debug\net5.0\Infar.Common.pdb
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\obj\Debug\net5.0\Infar.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\obj\Debug\net5.0\Infar.Common.AssemblyInfoInputs.cache
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\obj\Debug\net5.0\Infar.Common.AssemblyInfo.cs
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\obj\Debug\net5.0\Infar.Common.csproj.CoreCompileInputs.cache
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\obj\Debug\net5.0\Infar.Common.dll
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\obj\Debug\net5.0\ref\Infar.Common.dll
+E:\PRACTICE\CICD\GitLabDockerCICD\Infar.Common\obj\Debug\net5.0\Infar.Common.pdb
