@@ -1,5 +1,6 @@
 
-https://www.linkedin.com/pulse/building-cicd-pipelines-gitlab-net-5-docker-hub-ᴍᴄᴘ-ᴄsᴍ-ᴄsᴘᴏ/
+### Building CI/CD pipelines with GitLab, .NET5, and Docker Hub
+Detail step by step guide here: https://www.linkedin.com/pulse/building-cicd-pipelines-gitlab-net-5-docker-hub-ᴍᴄᴘ-ᴄsᴍ-ᴄsᴘᴏ/
 ### Docker file configuration for multy layer .NET app and CI/CD with GitLab 
 ### Runner Registration
 ```
